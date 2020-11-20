@@ -1,7 +1,7 @@
 # ROCAPS
-#### Supplementary data and scripts used in the article "Optimal multivariate genomic prediction modeling for gains in accuracy and phenotyping costs of secondary traits via Bayesian optimization"
-#### Author : Kosuke Hamazaki (hamazaki@ut-biomet.org)
-#### Date : 2020/11/13
+#### Supplementary data and scripts used in the article "Bayesian optimization of multivariate genomic prediction models based on secondary traits for improved accuracy gains and phenotyping costs"
+#### Author: Kosuke Hamazaki (hamazaki@ut-biomet.org)
+#### Date: 2020/11/13  (Last update: 2020/11/20)
 Here, I explain the structure of this repository.
 
 ----------
